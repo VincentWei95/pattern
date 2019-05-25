@@ -1,0 +1,12 @@
+O:interpreter.Scale
+0.5:interpreter.Scale
+1:interpreter.Scale
+2:interpreter.Scale
+3:interpreter.Scale
+C:interpreter.Note
+D:interpreter.Note
+E:interpreter.Note
+F:interpreter.Note
+G:interpreter.Note
+A:interpreter.Note
+B:interpreter.Note
